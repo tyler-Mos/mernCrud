@@ -1,0 +1,22 @@
+{
+  "name": "merncrud",
+  "version": "1.0.0",
+  "description": "This is a simple application utilizing CRUD operations using the MERN stack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyler-Mos/mernCrud.git"
+  },
+  "author": "tmos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tyler-Mos/mernCrud/issues"
+  },
+  "homepage": "https://github.com/tyler-Mos/mernCrud#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
